@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  <div
+    className="card"
+  >
+    <p
+      className="card-text"
+    >
+      Seitenmaou
+    </p>
+    <div
+      className="card-body"
+    >
+      <p
+        className="card-text"
+      >
+        Some dude trying to be smart.
+      </p>
+    </div>
+  </div>
+</div>
+`;
